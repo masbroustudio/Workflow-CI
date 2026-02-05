@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/NITRO5/Documents/trae_projects/SistemML01/Workflow-CI/MLProject/mlruns/0/61b4fe81f2794808a6272566db1967e5/artifacts
+end_time: 1770036502247
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 61b4fe81f2794808a6272566db1967e5
+run_name: big-pug-177
+run_uuid: 61b4fe81f2794808a6272566db1967e5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1770036467588
+status: 3
+tags: []
+user_id: NITRO5

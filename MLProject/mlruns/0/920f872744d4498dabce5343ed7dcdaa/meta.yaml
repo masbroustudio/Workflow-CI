@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/NITRO5/Documents/trae_projects/SistemML01/Workflow-CI/MLProject/mlruns/0/920f872744d4498dabce5343ed7dcdaa/artifacts
+end_time: 1770180629762
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 920f872744d4498dabce5343ed7dcdaa
+run_name: vaunted-worm-567
+run_uuid: 920f872744d4498dabce5343ed7dcdaa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1770180609363
+status: 3
+tags: []
+user_id: NITRO5

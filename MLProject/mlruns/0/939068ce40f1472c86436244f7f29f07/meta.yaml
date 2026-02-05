@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/NITRO5/Documents/trae_projects/SistemML01/Workflow-CI/MLProject/mlruns/0/939068ce40f1472c86436244f7f29f07/artifacts
+end_time: 1770036067653
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 939068ce40f1472c86436244f7f29f07
+run_name: sedate-newt-272
+run_uuid: 939068ce40f1472c86436244f7f29f07
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1770036059235
+status: 4
+tags: []
+user_id: NITRO5
